@@ -1,9 +1,6 @@
 package org.opengoofy.index12306.test.general.strategy;
 
-/**
- * @Author : Ted
- * @create 2024/12/11 14:35 类功能:
- */
+
 public class MainMethod {
 
   public static void main(String[] args) {

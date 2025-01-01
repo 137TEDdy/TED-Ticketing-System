@@ -7,10 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 
-/**
- * @Author : Ted
- * @create 2024/12/11 14:29 类功能:
- */
+
 
 @Component
 public class Factory implements InitializingBean {
