@@ -33,3 +33,10 @@ build/
 .vscode/
 services/aggregation-service
 
+
+mvnw
+mvnw.cmd
+LICENSE
+index12306-all.iml
+lombok.config
+
