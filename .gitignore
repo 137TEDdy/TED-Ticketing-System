@@ -40,3 +40,7 @@ LICENSE
 index12306-all.iml
 lombok.config
 
+console-vue
+resources
+node_modules
+
