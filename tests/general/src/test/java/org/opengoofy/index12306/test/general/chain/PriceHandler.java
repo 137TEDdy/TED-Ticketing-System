@@ -1,7 +1,6 @@
 package org.opengoofy.index12306.test.general.chain;
 
 /**
- *
  */
 public class PriceHandler implements AbstractChainHandler {
   @Override

@@ -9,7 +9,6 @@ public interface AbstractChainHandler<T> {
 
   /**
    * 执行责任链逻辑
-   *
    * @param requestParam 责任链执行入参
    */
   boolean handle(T requestParam);

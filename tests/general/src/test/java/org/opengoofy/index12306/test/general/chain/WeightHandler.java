@@ -1,7 +1,6 @@
 package org.opengoofy.index12306.test.general.chain;
 
 /**
- *
  */
 public class WeightHandler implements AbstractChainHandler{
 

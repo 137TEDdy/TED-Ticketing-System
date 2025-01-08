@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
  */
 public class ChainContext<T>{
   List<AbstractChainHandler> container=new ArrayList<>();
